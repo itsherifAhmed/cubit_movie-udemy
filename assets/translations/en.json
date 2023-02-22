@@ -1,0 +1,17 @@
+{
+  "movies": "Movies",
+  "movie": "Movie",
+  "description": "Description",
+  "settings": "Settings",
+  "location_not_defined": "Location not defined",
+  "something_went_wrong": "Something went wrong",
+  "search": "Search",
+  "filter": "Filter",
+  "genres": "Genres",
+  "year": "Year",
+  "enter_year": "Enter year",
+  "apply": "Apply",
+  "clear": "Clear",
+  "close": "Close",
+  "no_movies": "No movies"
+}

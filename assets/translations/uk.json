@@ -1,0 +1,17 @@
+{
+  "movies": "Фільми",
+  "movie": "Фільм",
+  "description": "Опис",
+  "settings": "Налаштування",
+  "location_not_defined": "Локація не визначена",
+  "something_went_wrong": "Щось пішло не так",
+  "search": "Пошук",
+  "filter": "Фільтр",
+  "genres": "Жанри",
+  "year": "Рік",
+  "enter_year": "Введіть рік",
+  "apply": "Застосувати",
+  "clear": "Скинути",
+  "close": "Закрити",
+  "no_movies": "Немає жодного фільму"
+}
